@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "omerpa55.github.io/omertuxLinuxWebsite",
+  "homepage": "https://omerpa55.github.io/omertuxLinuxWebsite",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
